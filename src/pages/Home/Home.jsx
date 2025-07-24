@@ -1,10 +1,10 @@
 import React from "react";
 import Banner from "../../components/Banner/Banner";
-import Choose from "../../Components/Choose/Choose";
-import Product from "../../Components/Product/Product";
-import Experiences from "../../Components/Experiences/Experiences";
-import Materials from "../../Components/Materials/Materials";
-import Testimonial from "../../Components/Testimonial/Testimonial";
+import Choose from "../../components/Choose/Choose";
+import Product from "../../components/Product/Product";
+import Experiences from "../../components/Experiences/Experiences";
+import Materials from "../../components/Materials/Materials";
+import Testimonial from "../../components/Testimonial/Testimonial";
 
 const Home = () => {
   return (
