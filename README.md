@@ -1,12 +1,31 @@
-# React + Vite
+# Panto Furniture 🪑
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern furniture landing page built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [https://panto-furniture.vercel.app](https://panto-furniture.vercel.app)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and elegant UI
+- Fully responsive design 📱💻
+- Smooth section transitions
+- Component-based architecture
+- Tailwind CSS for efficient styling
+
+## 🛠️ Tech Stack
+
+- React.js ⚛️
+- Tailwind CSS 🎨
+- Vite ⚡
+
+## ⚙️ Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/abdullahhani7/panto-furniture.git
+cd panto-furniture
+npm install
+npm run dev
